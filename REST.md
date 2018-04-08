@@ -1,5 +1,5 @@
-#Weather ReSTful Web-Services.
-##Cloud-Computing Assignment-2
+##Weather ReSTful Web-Services.
+
 The project is developed using J2EE (dynamic web project) in eclipse. All the weather information is stored in daily.csv and the data is accessed in java. The project is developed using rest api-which is implemented through jersey framework. 
 The methods implemented in the project are 
 •	GET,
